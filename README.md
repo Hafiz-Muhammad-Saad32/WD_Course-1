@@ -11,11 +11,7 @@ Throughout these assignments, I practiced **HTML, CSS, JavaScript (Basics)**, **
 - **Bootstrap:** Pre-built components, responsive layouts, utilities.
 - **JavaScript (Basics):** Variables, functions, DOM manipulation, event handling.
 - **Git & GitHub:** Version control, repository creation, pushing code, collaboration.
-
----
-## 🤝 Teamwork Projects
-During this course, I also worked on **team-based projects** where I collaborated with other developers, learned version control in a team environment, and improved my problem-solving skills.
-
+  
 ---
 
 ## 📌 About Me
