@@ -1,0 +1,1176 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    width: 40px;
+    height:40px;
+    margin: 10px;
+    cursor:pointer;
+}
+.a{
+    background-color:#F69A73 ;
+}
+.b{
+    background-color:#FA9563 ;
+}
+.c{
+    background-color:#F19550 ;
+}
+.d{
+    background-color:#F59340 ;
+}
+.e{
+    background-color:#F1922E ;
+}
+.f{
+    background-color: #F38E20;
+}
+.g{
+    background-color:#E38614 ;
+}
+.h{
+    background-color:#CA7915 ;
+}
+.i{
+    background-color:#945D0B;
+}
+.j{
+    background-color:#795007;
+}
+.k{
+    background-color:#594104;
+}
+.l{
+    background-color:#433501;
+}
+.aa{
+    background-color:#E9AC58 ;
+}
+.ab{
+    background-color: #EDB347;
+}
+.ac{
+    background-color:#EEB738 ;
+}
+.ad{
+    background-color:#F5BD2A ;
+}
+.ae{
+    background-color: #F6C11B;
+}
+.af{
+    background-color: #F9C609;
+}
+.ag{
+    background-color: #EEBE06;
+}
+.ah{
+    background-color: #CEA701;
+}
+.ai{
+    background-color:#937B01 ;
+}
+.aj{
+    background-color:#756601 ;
+}
+.ak{
+    background-color:#584F00 ;
+}
+.al{
+    background-color:#3A3900 ;
+}
+.ba{
+    background-color:#D5BA3A ;
+}
+.bb{
+    background-color:#D6BE36 ;
+}
+.bc{
+    background-color:#D4C32D ;
+}
+.bd{
+    background-color:#D2C626 ;
+}
+.be{
+    background-color:#CFCB22 ;
+}
+.bf{
+    background-color:#C3C114 ;
+}
+.bg{
+    background-color:#AAAE11 ;
+}
+.bh{
+    background-color:#91980C ;
+}
+.bi{
+    background-color:#78810C ;
+}
+.bj{
+    background-color:#5F6B06 ;
+}
+.bk{
+    background-color:#445604 ;
+}
+.bl{
+    background-color:#2E4002 ;
+}
+.ca{
+    background-color:#B8C049 ;
+}
+.cb{
+    background-color:#ADBD44 ;
+}
+.cc{
+    background-color:#ACC140 ;
+}
+.cd{
+    background-color:#A3C13D ;
+}
+.ce{
+    background-color:#9EC335 ;
+}
+.cf{
+    background-color:#99C530 ;
+}
+.cg{
+    background-color:#8CBC2C ;
+}
+.ch{
+    background-color:#77A828 ;
+}
+.ci{
+    background-color:#538023 ;
+}
+.cj{
+    background-color:#3F6C1C ;
+}
+.ck{
+    background-color:#305A1A ;
+}
+.cl{
+    background-color:#1B4517 ;
+}
+.da{
+    background-color:#9DC366 ;
+}
+.db{
+    background-color:#8DC363 ;
+}
+.dc{
+    background-color:#81C258 ;
+}
+.dd{
+    background-color:#75BD57 ;
+}
+.de{
+    background-color:#67BF4F ;
+}
+.df{
+    background-color:#5ABC4B ;
+}
+.dg{
+    background-color:#4FB245 ;
+}
+.dh{
+    background-color:#44A140 ;
+}
+.di{
+    background-color:#2D7E39 ;
+}
+.dj{
+    background-color:#246C31 ;
+}
+.dk{
+    background-color:#195C2B ;
+}
+.dl{
+    background-color:#0C4727 ;
+}
+.ea{
+    background-color:#53D7CA ;
+}
+.eb{
+    background-color:#45D5CB ;
+}
+.ec{
+    background-color:#34D5CD ;
+}
+.ed{
+    background-color:#27D1D1 ;
+}
+.ee{
+    background-color:#1BCED2 ;
+}
+.ef{
+    background-color:#0CCDD4 ;
+}
+.eg{
+    background-color:#04C0CC ;
+}
+.eh{
+    background-color:#0AACB9 ;
+}
+.ei{
+    background-color:#08818E ;
+}
+.ej{
+    background-color:#0A6B7B
+     ;
+}
+.ek{
+    background-color:#0D5769 ;
+}
+.el{
+    background-color:#0B4256 ;
+}
+
+.fa{
+    background-color:#55CEDB ;
+}
+
+.fb{
+    background-color:#4BC3D3 ;
+}
+
+.fc{
+    background-color:#3EBAD2 ;
+}
+
+.fd{
+    background-color:#34B1D1 ;
+}
+.fe{
+    background-color:#28A8CD ;
+}
+.ff{
+    background-color:#1B9ECC ;
+}
+.fg{
+    background-color:#1893BD ;
+}
+
+.fh{
+    background-color:#1883AF ;
+}
+.fi{
+    background-color:#1B6789 ;
+}
+.fj{
+    background-color:#1C587A ;
+}
+
+.fk{
+    background-color:#1B496A ;
+}
+.fl{
+    background-color:#1B3859 ;
+}
+.ga{
+    background-color:#6ABADF ;
+}
+.gb{
+    background-color:#5FACD6 ;
+}
+.gc{
+    background-color:#539FD1 ;
+}
+.gd{
+    background-color:#4590C9 ;
+}
+.ge{
+    background-color:#3D80C6 ;
+}
+.gf{
+    background-color:#2E72B9 ;
+}
+.gg{
+    background-color:#2766B3 ;
+}
+.gh{
+    background-color:#295DA8 ;
+}
+.gi{
+    background-color:#2C4C85 ;
+}
+.gj{
+    background-color:#2C4178 ;
+}
+.gk{
+    background-color:#2D3969 ;
+}
+.gl{
+    background-color:#2E315A ;
+}
+.ha{
+    background-color:#86A7E5 ;
+}
+.hb{
+    background-color:#789BD5 ;
+}
+.hc{
+    background-color:#6E86CE ;
+}
+.hd{
+    background-color:#6173C5 ;
+}
+.he{
+    background-color:#5760BB ;
+}
+.hf{
+    background-color:#4C50B1 ;
+}
+.hg{
+    background-color:#4743A2 ;
+}
+.hh{
+    background-color:#444096 ;
+}
+.hi{
+    background-color:#423678 ;
+}
+.hj{
+    background-color: #46316F;
+}
+.hk{
+    background-color:#402D5B ;
+}
+.hl{
+    background-color:#40274F ;
+}
+.ia{
+    background-color:#A49ADB ;
+}
+.ib{
+    background-color:#A08BD0 ;
+}
+.ic{
+    background-color:#987AC4 ;
+}
+.id{
+    background-color:#9368BA ;
+}
+.ie{
+    background-color:#8D57AD ;
+}
+.if{
+    background-color:#8747A5 ;
+}
+.ig{
+    background-color:#7D3D94 ;
+}
+.ih{
+    background-color:#773887 ;
+}
+.ii{
+    background-color:#6A2E6A ;
+}
+.ij{
+    background-color:#63285C ;
+}
+.ik{
+    background-color:#5B244C ;
+}
+.il{
+    background-color:#551F41 ;
+}
+.ja{
+    background-color:#CA90CF ;
+}
+.jb{
+    background-color:#C781BF ;
+}
+.jc{
+    background-color:#C770B5 ;
+}
+.jd{
+    background-color:#C460A9 ;
+}
+.je{
+    background-color:#C44D9D ;
+}
+.jf{
+    background-color:#C23E91 ;
+}
+.jg{
+    background-color:#B93485 ;
+}
+.jh{
+    background-color:#AC2E78 ;
+}
+.ji{
+    background-color:#8E2660 ;
+}
+.jj{
+    background-color:#82204F ;
+}
+.jk{
+    background-color:#741C46 ;
+}
+.jl{
+    background-color:#691838 ;
+}
+.ka{
+    background-color:#E885B9 ;
+}
+.kb{
+    background-color:#EC76B2 ;
+}
+.kc{
+    background-color:#EE65A5 ;
+}
+.kd{
+    background-color:#F74E86 ;
+}
+.ke{
+    background-color:#F3458D ;
+}
+.kf{
+    background-color:#F03681 ;
+}
+.kg{
+    background-color:#E82B75 ;
+}
+.kh{
+    background-color:#D12758 ;
+}
+.ki{
+    background-color:#AB2152 ;
+}
+.kj{
+    background-color:#941E48 ;
+}
+.kk{
+    background-color:#7B1A39 ;
+}
+.kl{
+    background-color:#68192F ;
+}
+.la{
+    background-color:#FD7FAC ;
+}
+.lb{
+    background-color: #FB6EA0;
+}
+.lc{
+    background-color:#F75F92 ;
+}
+.ld{
+    background-color:#F64F87 ;
+}
+.le{
+    background-color:#EF4077 ;
+}
+.lf{
+    background-color: #F0316B;
+}
+.lg{
+    background-color:#E52963 ;
+}
+.lh{
+    background-color:#D12758 ;
+}
+.li{
+    background-color:#A82048 ;
+}
+.lj{
+    background-color: #911F40;
+}
+.lk{
+    background-color:#7B1C34 ;
+}
+.ll{
+    background-color: #681A2A;
+}
+.ma{
+    background-color:#FB80A5 ;
+}
+.mb{
+    background-color:#F66E94 ;
+}
+.mc{
+    background-color:#F45E83 ;
+}
+.md{
+    background-color: #F14C74;
+}
+.me{
+    background-color:#ED3C68 ;
+}
+.mf{
+    background-color:#EA2D57 ;
+}
+.mg{
+    background-color:#DF244F ;
+}
+.mh{
+    background-color:#DE244F ;
+}
+.mi{
+    background-color:#A42037 ;
+}
+.mj{
+    background-color: #8F1E32;
+}
+.mk{
+    background-color:#7B1F2E ;
+}
+.ml{
+    background-color:#681B25 ;
+}
+.na{
+    background-color: #FC7F9A;
+}
+.nb{
+    background-color:#F46E86 ;
+}
+.nc{
+    background-color:#F05B78 ;
+}
+.nd{
+    background-color:#EA4C63 ;
+}
+.ne{
+    background-color:#EB3A54 ;
+}
+.nf{
+    background-color:#D82038 ;
+}
+.ng{
+    background-color:#D82038;
+}
+.nh{
+    background-color:#C21F30 ;
+}
+.ni{
+    background-color: #9A2224;
+}
+.nj{
+    background-color:#852320 ;
+}
+.nk{
+    background-color:#722219 ;
+}
+.nl{
+    background-color:#5E2311 ;
+}
+.oa{
+    background-color:#F9878E ;
+}
+.ob{
+    background-color:#F97D7D ;
+}
+.oc{
+    background-color:#F47566 ;
+}
+.od{
+    background-color:#F36A57 ;
+}
+.oe{
+    background-color:#EF6244 ;
+}
+.of{
+    background-color:#ED5830 ;
+}
+.og{
+    background-color:#DB5025 ;
+}
+.oh{
+    background-color:#C74920 ;
+}
+.oi{
+    background-color:#973F11 ;
+}
+.oj{
+    background-color:#81380D ;
+}
+.ok{
+    background-color:#683206 ;
+}
+.ol{
+    background-color:#532C00 ;
+}
+.a:hover{
+    background-color:#433501 ;
+}
+.b:hover{
+    background-color:#594104 ;
+}
+.c:hover{
+    background-color:#795007 ;
+}
+.d:hover{
+    background-color:#945D0B ;
+}
+.e:hover{
+    background-color:#CA7915  ;
+}
+.f:hover{
+    background-color:#E38614 ;
+}
+.g:hover{
+    background-color:#F38E20 ;
+}
+.h:hover{
+    background-color:#F1922E  ;
+}
+.i:hover{
+    background-color:#F59340 ;
+}
+.j:hover{
+    background-color:#F19550 ;
+}
+.k:hover{
+    background-color:#FA9563 ;
+}
+.l:hover{
+    background-color:#F69A73 ;
+}
+.aa:hover{
+    background-color:#3A3900  ;
+}
+.ab:hover{
+    background-color:#584F00  ;
+}
+.ac:hover{
+    background-color:#756601 ;
+}
+.ad:hover{
+    background-color:#937B01  ;
+}
+.ae:hover{
+    background-color:#CEA701 ;
+}
+.af:hover{
+    background-color:#EEBE06 ;
+}
+.ag:hover{
+    background-color:#F9C609 ;
+}
+.ah:hover{
+    background-color:#F6C11B ;
+}
+.ai:hover{
+    background-color:#F5BD2A ;
+}
+.aj:hover{
+    background-color:#EEB738  ;
+}
+.ak:hover{
+    background-color:#EDB347 ;
+}
+.al:hover{
+    background-color:#E9AC58  ;
+}
+.ba:hover{
+    background-color:#2E4002 ;
+}
+.bb:hover{
+    background-color:#445604  ;
+}
+.bc:hover{
+    background-color: #5F6B06;
+}
+.bd:hover{
+    background-color:#78810C ;
+}
+.be:hover{
+    background-color: #91980C;
+}
+.bf:hover{
+    background-color:#AAAE11 ;
+}
+.bg:hover{
+    background-color:#C3C114  ;
+}
+.bh:hover{
+    background-color:#CFCB22 ;
+}
+.bi:hover{
+    background-color:#D2C626 ;
+}
+.bj:hover{
+    background-color:#D4C32D ;
+}
+.bk:hover{
+    background-color:#D6BE36 ;
+}
+.bl:hover{
+    background-color:#D5BA3A ;
+}
+.ca:hover{
+    background-color:#1B4517  ;
+}
+.cb:hover{
+    background-color:#305A1A ;
+}
+.cc:hover{
+    background-color: #3F6C1C;
+}
+.cd:hover{
+    background-color:#538023 ;
+}
+.ce:hover{
+    background-color:#77A828  ;
+}
+.cf:hover{
+    background-color:#8CBC2C ;
+}
+.cg:hover{
+    background-color:#99C530  ;
+}
+.ch:hover{
+    background-color:#9EC335 ;
+}
+.ci:hover{
+    background-color:#A3C13D ;
+}
+.cj:hover{
+    background-color:#ACC140 ;
+}
+.ck:hover{
+    background-color:#ADBD44  ;
+}
+.cl:hover{
+    background-color:#B8C049 ;
+}
+.da:hover{
+    background-color:#0C4727  ;
+}
+.db:hover{
+    background-color:#195C2B ;
+}
+.dc:hover{
+    background-color:#246C31 ;
+}
+.dd:hover{
+    background-color:#2D7E39 ;
+}
+.de:hover{
+    background-color:#44A140 ;
+}
+.df:hover{
+    background-color:#4FB245 ;
+}
+.dg:hover{
+    background-color:#5ABC4B ;
+}
+.dh:hover{
+    background-color:#67BF4F ;
+}
+.di:hover{
+    background-color:#75BD57 ;
+}
+.dj:hover{
+    background-color:#81C258 ;
+}
+.dk:hover{
+    background-color:#8DC363 ;
+}
+.dl:hover{
+    background-color:#9DC366  ;
+}
+.ea:hover{
+    background-color:#0B4256  ;
+}
+.eb:hover{
+    background-color:#0D5769  ;
+}
+.ec:hover{
+    background-color:#0A6B7B ;
+}
+.ed:hover{
+    background-color:#08818E ;
+}
+.ee:hover{
+    background-color:#0AACB9 ;
+}
+.ef:hover{
+    background-color:#04C0CC ;
+}
+.eg:hover{
+    background-color:#0CCDD4 ;
+}
+.eh:hover{
+    background-color:#1BCED2;
+}
+.ei:hover{
+    background-color:#27D1D1;
+}
+.ej:hover{
+    background-color:#34D5CD ;
+}
+.ek:hover{
+    background-color:#45D5CB ;
+}
+.el:hover{
+    background-color:#53D7CA  ;
+}
+.fa:hover{
+    background-color:#1B3859  ;
+}
+.fb:hover{
+    background-color:#1B496A ;
+}
+.fc:hover{
+    background-color:#1C587A ;
+}
+.fd:hover{
+    background-color:#1B6789 ;
+}
+.fe:hover{
+    background-color:#1883AF ;
+}
+.ff:hover{
+    background-color:#1893BD ;
+}
+.fg:hover{
+    background-color:#1B9ECC  ;
+}
+.fh:hover{
+    background-color:#28A8CD  ;
+}
+.fi:hover{
+    background-color:#34B1D1 ;
+}
+.fj:hover{
+    background-color:#3EBAD2 ;
+}
+.fk:hover{
+    background-color:#4BC3D3 ;
+}
+.fl:hover{
+    background-color:#55CEDB ;
+}
+.ga:hover{
+    background-color:#2E315A ;
+}
+.gb:hover{
+    background-color:#2D3969 ;
+}
+.gc:hover{
+    background-color:#2C4178  ;
+}
+.gd:hover{
+    background-color:#2C4C85 ;
+}
+.ge:hover{
+    background-color:#295DA8 ;
+}
+.gf:hover{
+    background-color:#2766B3 ;
+}
+.gg:hover{
+    background-color:#2E72B9 ;
+}
+.gh:hover{
+    background-color:#3D80C6  ;
+}
+.gi:hover{
+    background-color:#4590C9 ;
+}
+.gj:hover{
+    background-color:#539FD1 ;
+}
+.gk:hover{
+    background-color:#5FACD6 ;
+}
+.gl:hover{
+    background-color:#6ABADF ;
+}
+.ha:hover{
+    background-color:#40274F  ;
+}
+.hb:hover{
+    background-color:#402D5B ;
+}
+.hc:hover{
+    background-color:#46316F ;
+}
+.hd:hover{
+    background-color:#423678 ;
+}
+.he:hover{
+    background-color:#444096 ;
+}
+.hf:hover{
+    background-color:#4743A2 ;
+}
+.hg:hover{
+
+    background-color:#4C50B1 ;
+}
+.hh:hover{
+    background-color:#5760BB ;
+}
+.hi:hover{
+    background-color:#6173C5 ;
+}
+.hj:hover{
+    background-color:#6E86CE ;
+}
+.hk:hover{
+    background-color:#789BD5 ;
+}
+.hl:hover{
+    background-color:#86A7E5  ;
+}
+.ia:hover{
+    background-color:#551F41 ;
+}
+.ib:hover{
+    background-color:#5B244C ;
+}
+.ic:hover{
+    background-color:#63285C ;
+}
+.id:hover{
+    background-color:#6A2E6A ;
+}
+.ie:hover{
+    background-color:#773887 ;
+}
+.if:hover{
+    background-color:#7D3D94 ;
+}
+.ig:hover{
+    background-color:#8747A5 ;
+}
+.ih:hover{
+    background-color:#9368BA ;
+}
+.ii:hover{
+    background-color:#9368BA ;
+}
+.ij:hover{
+    background-color:#987AC4 ;
+}
+.ik:hover{
+    background-color:#A08BD0 ;
+}
+.il:hover{
+    background-color:#A49ADB ;
+}
+.ja:hover{
+    background-color: #691838;
+}
+.jb:hover{
+    background-color:#741C46 ;
+}
+.jc:hover{
+    background-color:#82204F ;
+}
+.jd:hover{
+    background-color:#8E2660 ;
+}
+.je:hover{
+    background-color: #AC2E78 ;
+}
+.jf:hover{
+    background-color: #B93485 ;
+}
+.jg:hover{
+    background-color: #C23E91;
+}
+.jh:hover{
+    background-color:#C44D9D ;
+}
+.ji:hover{
+    background-color:#C460A9 ;
+}
+.jj:hover{
+    background-color:#C770B5  ;
+}
+.jk:hover{
+    background-color:#C781BF ;
+}
+.jl:hover{
+    background-color:#CA90CF ;
+}
+.ka:hover{
+    background-color:#68192F ;
+}
+.kb:hover{
+    background-color:#7B1A39 ;
+}
+.kc:hover{
+    background-color:#941E48 ;
+}
+.kd:hover{
+    background-color:#AB2152 ;
+}
+.ke:hover{
+    background-color:#D12758 ;
+    
+}
+.kf:hover{
+    background-color:#E82B75 ;
+}
+.kg:hover{
+    background-color:#F03681 ;
+}
+.kh:hover{
+    background-color:#F3458D ;
+}
+.ki:hover{
+    background-color:#F74E86 ;
+}
+.kj:hover{
+    background-color:#EE65A5 ;
+}
+.kk:hover{
+    background-color:#EC76B2 ;
+}
+.kl:hover{
+    background-color:#E885B9 ;
+}
+.la:hover{
+    background-color:#681A2A ;
+}
+.lb:hover{
+    background-color:#7B1C34 ;
+}
+.lc:hover{
+    background-color:#911F40 ;
+}
+.ld:hover{
+    background-color:#A82048 ;
+}
+.le:hover{
+    background-color: #D12758;
+}
+.lf:hover{
+    background-color:#E52963 ;
+}
+.lg:hover{
+    background-color:#F0316B ;
+}
+.lh:hover{
+    background-color:#EF4077 ;
+}
+.li:hover{
+    background-color:#F64F87 ;
+}
+.lj:hover{
+    background-color:#F75F92 ;
+}
+.lk:hover{
+    background-color:#FB6EA0 ;
+}
+.ll:hover{
+    background-color:#FD7FAC ;
+}
+.ma:hover{
+    background-color:#681B25  ;
+}
+.mb:hover{
+    background-color:#7B1F2E ;
+}
+.mc:hover{
+    background-color:#8F1E32 ;
+}
+.md:hover{
+    background-color:#A42037 ;
+}
+.me:hover{
+    background-color: #DE244F ;
+}
+.mf:hover{
+    background-color:#DF244F ;
+}
+.mg:hover{
+    background-color:#EA2D57 ;
+}
+.mh:hover{
+    background-color:#ED3C68 ;
+}
+.mi:hover{
+    background-color:#F14C74 ;
+}
+.mj:hover{
+    background-color: #F45E83;
+}
+.mk:hover{
+    background-color:#F66E94 ;
+}
+.ml:hover{
+    background-color:#FB80A5 ;
+}
+.na:hover{
+    background-color:#5E2311 ;
+}
+.nb:hover{
+    background-color:#722219 ;
+}
+.nc:hover{
+    background-color:#852320 ;
+}
+.nd:hover{
+    background-color: #9A2224;
+}
+.ne:hover{
+    background-color:#C21F30 ;
+}
+.nf:hover{
+    background-color:#D82038 ;
+}
+.ng:hover{
+    background-color:#D82038 ;
+}
+.nh:hover{
+    background-color:#EB3A54 ;
+}
+.ni:hover{
+    background-color:#EA4C63 ;
+}
+.nj:hover{
+    background-color:#F05B78 ;
+}
+.nk:hover{
+    background-color:#F46E86 ;
+}
+.nl:hover{
+    background-color:#FC7F9A ;
+}
+.oa:hover{
+    background-color:#532C00 ;
+}
+.ob:hover{
+    background-color:#683206 ;
+}
+.oc:hover{
+    background-color:#81380D ;
+}
+.od:hover{
+    background-color:#973F11 ;
+}
+.oe:hover{
+    background-color:#C74920 ;
+}
+.of:hover{
+    background-color:#DB5025 ;
+}
+.og:hover{
+    background-color:#ED5830 ;
+}
+.oh:hover{
+    background-color:#EF6244 ;
+}
+.oi:hover{
+    background-color:#F36A57 ;
+}
+.oj:hover{
+    background-color:#F47566 ;
+}
+.ok:hover{
+    background-color:#F97D7D ;
+}
+.ol:hover{
+    background-color:#F9878E  ;
+}
