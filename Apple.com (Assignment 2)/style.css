@@ -1,0 +1,255 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* nave bar */
+.nave {
+    max-width: 100%;
+    min-height: 40px;
+    background-color: rgba(0, 0, 0, 0.849);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    position: sticky;
+    top: 0px;
+    flex-wrap: wrap;
+}
+
+.nave svg {
+    width: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 12px;
+}
+
+.logo {
+    height: 20px;
+    ;
+    max-width: 20px;
+}
+
+/* bacground images for sections */
+.section-a {
+    background-image: url("https://www.apple.com/v/home/bu/images/heroes/iphone-16-pro/hero_iphone16pro_avail__fnf0f9x70jiy_medium_2x.jpg");
+}
+
+.section-b {
+    background-image: url("https://www.apple.com/v/home/bu/images/heroes/iphone-16/hero_iphone16_avail__euwzls69btea_medium_2x.jpg");
+}
+
+.section-c {
+    background-image: url("https://www.apple.com/v/home/bu/images/promos/airpods-pro-2/promo_airpods_pro_2_avail__vkitqi3okwie_medium_2x.jpg");
+}
+
+.section-d {
+    background-image: url("https://www.apple.com/v/home/bu/images/promos/apple-intelligence/promo_ai__couihqxznyvm_medium_2x.jpg");
+}
+
+.section-e {
+    background-image: url("https://www.apple.com/v/home/bu/images/promos/iphone-tradein/promo_iphone_tradein__bugw15ka691e_medium_2x.jpg");
+}
+
+.section-f {
+    background-image: url("https://www.apple.com/v/home/bu/images/promos/apple-card/promo_apple_card__5cm7draujpey_medium_2x.jpg");
+}
+
+
+/* styling for section */
+.section-a,
+.section-b {
+    width: 100%;
+    padding-top: 40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 15px;
+    background-position: center;
+    height: 530px;
+    color: aliceblue;
+}
+
+.section-c-d,
+.section-e-f {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 10px;
+    max-width: 100%;
+    justify-content: center;
+}
+
+.section-c,
+.section-d,
+.section-e,
+.section-f {
+
+    height: 600px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 20px;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.section-d {
+
+    color: black;
+    justify-content: flex-start;
+    padding-top: 20px;
+}
+
+.section-e,
+.section-f {
+    color: black;
+    justify-content: flex-start;
+}
+
+.section-g {
+    background-color: #F5F5F7;
+    margin-top: 10px;
+    padding: 20px 100px;
+}
+
+/* styling for headings  */
+
+.section-a h1,
+.section-b h1 {
+    font-size: 60px;
+}
+
+.section-a h2,
+.section-b h2 {
+    font-size: 30px;
+}
+
+.section-c h2,
+.section-d h2 {
+    font-size: 45px;
+}
+
+.section-d h3 {
+    font-size: 30px;
+}
+
+.section-e-f h2 {
+    font-size: 40px;
+}
+
+/* styling of buttions */
+.learn-more,
+.buy,
+.watch,
+.apply,
+.estimate {
+    font-size: 25px;
+    border-radius: 15px;
+    padding: 3px;
+    cursor: pointer;
+}
+
+.learn-more {
+    background-color: rgb(0, 110, 255);
+}
+
+.buy,
+.apply,
+.estimate,
+.watch {
+    background-color: #ffffff;
+    color: rgb(0, 42, 255);
+}
+
+/* paragraf styling */
+.section-e-f p {
+    font-size: 20px;
+}
+
+.section-g div ul {
+    list-style: none;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+/* footer styling */
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5%;
+}
+
+.blue {
+    font-size: 15px;
+}
+
+/* for mobile */
+@media(max-width:426px) {
+    .section-a {
+        background-image: url("https://www.apple.com/v/home/bu/images/promos/iphone-16-pro/promo_iphone16pro_avail__e44nsnw4hii6_medium_2x.jpg");
+    }
+
+    .section-b {
+        background-image: url("https://www.apple.com/v/home/bu/images/promos/iphone-16/promo_iphone16_avail__cl72dn7xdfv6_medium_2x.jpg");
+    }
+
+    .section-c-d,
+    .section-e-f {
+        max-width: none;
+        flex-direction: column;
+    }
+    .section-a,.section-b,.section-c,.section-d,.section-e,.section-f{
+        height: 500px; ;
+    }
+    .section-a h1,
+    .section-b h1,
+    .section-c h1,
+    .section-e h1,
+    .section-f h1 {
+        font-size: 40px;
+    }
+
+    .section-d h1 {
+        font-size: 28;
+    }
+
+    .section-d h3 {
+        font-size: 10;
+    }
+
+    .section-a h2,
+    .section-b h2 {
+        font-size: 15px;
+    }
+
+    .learn-more,
+    .buy,
+    .watch,
+    .apply,
+    .estimate {
+        font-size: 15px;
+        border-radius: 10px;
+        padding: 3px;
+        cursor: pointer;
+    }
+
+}
+
+/* for tablet */
+@media (max-width: 768px) {
+    .section-g {
+        padding: 20px 10px;
+    }
+}
